@@ -1,7 +1,7 @@
 # Equipe
 
 Integrantes mencionados pelo solicitante: Ana Carla, Jonas, Anderson e Adriel; também foi informada uma equipe de cinco desenvolvedores. A composição completa, nomes restantes e funções devem ser confirmados pelo grupo.
-
+|---|---|---|
 | Pessoa | Área de interesse / função | Tarefas combinadas |
 |Alex| A combinar | A combinar |
 | Ana Karla | A combinar | A combinar |
