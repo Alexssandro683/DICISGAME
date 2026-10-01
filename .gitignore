@@ -1,0 +1,19 @@
+# Ren'Py: arquivos compilados e temporários
+*.rpyc
+*.rpymc
+.cache/
+
+# Saves e logs locais
+/game/saves/
+*.log
+
+# Builds exportadas (não enviar executáveis sem combinar release)
+/distribute/
+/build/
+
+# Sistema operacional e editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
