@@ -3,10 +3,10 @@
 Integrantes mencionados pelo solicitante: Ana Carla, Jonas, Anderson e Adriel; também foi informada uma equipe de cinco desenvolvedores. A composição completa, nomes restantes e funções devem ser confirmados pelo grupo.
 
 | Pessoa | Área de interesse / função | Tarefas combinadas |
-|---|---|---|
-| Ana Carla | A combinar | A combinar |
+|Alex| A combinar | A combinar |
+| Ana Karla | A combinar | A combinar |
 | Jonas | A combinar | A combinar |
-| Anderson | A combinar | A combinar |
+| Andrisson | A combinar | A combinar |
 | Adriel | A combinar | A combinar |
 | Demais integrantes | Confirmar com a equipe | A combinar |
 | Pedro | Liderança mencionada na ata | Coordenação e material de consulta; confirmar divisão final com a equipe |
